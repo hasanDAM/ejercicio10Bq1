@@ -22,7 +22,7 @@ public class Ejercicio10Bloq1 {
         System.out.println("El factorial es : "+factorial);
     }
     public void comit(){
-        System.out.print("Primera version");
+        System.out.print("Segunda version");
     }
     
 }
